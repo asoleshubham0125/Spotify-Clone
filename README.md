@@ -38,4 +38,4 @@ Gmail: asoleshubham01@gmail.com
 ---
 
 ### 🔗 Links
-- GitHub: [@Shubham0125](https://github.com/asoleshuham0125)
+- GitHub: [@Shubham0125](https://github.com/asoleshubham0125)
