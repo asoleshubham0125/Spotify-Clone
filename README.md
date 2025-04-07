@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-Check out the live version here: [Spotify Clone Live](https://asoleshubham0125.github.io/spotify-clone/)
+Check out the live version here: [Spotify Clone Live](https://asoleshubham0125.github.io/Spotify-Clone/)
 
 ## 📸 Screenshots
 
